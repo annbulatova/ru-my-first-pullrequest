@@ -14,3 +14,5 @@ SUSUME!
 Спасибо Hexlet.
 
 Chelik was here. HELOO WORLD!!!
+
+Изменение для тренировки
